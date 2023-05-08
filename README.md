@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-![Flynn Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLynnCao&show_icons=true&theme=tokyonight)
-
+![Flynn Cao's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FlynnCao&&show_icons=true&theme=dark)
 <!-- Start
 
   <!--
