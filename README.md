@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-
+### Hi there 👋 
 
 ![Flynn Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLynnCao&show_icons=true&theme=tokyonight)
 
@@ -35,4 +31,31 @@
 <!--END_SECTION:activity-->
 
  
+ 
+ <p style="display:flex">
+ <a href="https://t.me/flynncao/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+  
+<a href="https://discord.gg/v2bzdj7j">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+ </a>
+  
+<a href="https://dev.to/flynncao">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+ 
+ <a href="https://www.goodreads.com/user/show/165341751-cornfieldchase">
+   <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/>
+  </a>
+  
+ 
+  
+</p>
+ 
+
+
+
+
+
+
 
