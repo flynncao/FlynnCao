@@ -19,7 +19,7 @@
   -->
 
 ### ✏️ Blog posts
-<!-- BLOG-POST-LIST:START -->[Thu May 04 2023 6:55 AM - 浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10)<br>最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发现年久失修。
+<!-- BLOG-POST-LIST:START --><a href=`https://xlog.app/api/redirection?characterId=49213&noteId=10`>Thu May 04 2023 6:55 AM - 浏览器插件开发简易指南0</a><br><p style=`height:300px;overflow:hidden`>最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发现年久失修。
 
 项目地址： https://github.com/Yukaii/mojidict-helper
 Chrome 商店： https://chrome.google.com/webstore/detail/mojidict-helper/eknkjedaohafedihakaobhjfaabelkem
@@ -232,7 +232,7 @@ export default store;
 （05/08 更新：）
 antfu 的浏览器 extension 模板很好用。但在 firefox 上行不通，问题在于 web-ext 且Firefox 浏览器对 manifestV3 的支持仍不稳定。
 🧩参考
-https://dev.to/anobjectisa/how-to-build-a-chrome-extension-new-manifest-v3-5edk[Mon Mar 13 2023 2:57 AM - Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5)<br>一点小小的英语词汇提升路径：
+https://dev.to/anobjectisa/how-to-build-a-chrome-extension-new-manifest-v3-5edk</p><a href=`https://xlog.app/api/redirection?characterId=49213&noteId=5`>Mon Mar 13 2023 2:57 AM - Word Power Made Easy &lpar;持续更新中）</a><br><p style=`height:300px;overflow:hidden`>一点小小的英语词汇提升路径：
 前一段大概用网站测了下词汇量 &lpar;vocabulary.com8700, 扇贝 13000&rpar;，和成年 native 还相去甚远。课堂上的东西倒是能应付，但是对付我的论文可能有些捉襟见肘了。另外提升写作这个目前没想到什么好方法（我是 grammarly 重度用户），想到了再分享。
 词根知识 &lpar;待补充&rpar;
 词根（root，root word）又称语根、根词 [1]，是基本构词的基本词素，与词缀相对并携带主要词汇信息。[2][3][4][5][6]
@@ -295,7 +295,7 @@ psychiatrist -&gt; /saɪˈkaɪə.trɪst/  [重点：iatreia的人]
 总结
 英语并不是一门 “精确” 的语言，但她确实是一门强逻辑语言，英语的精确建立在其无限的修饰之上，构词是修饰，词块是修饰，句子也是修饰，从句和主句也是修饰，有分析的成分吗？有，但你需要等她修饰完。
 词源构词法相关视频
-https://www.youtube.com/watch?v=QZ4yuGaFQMc[Sat Mar 04 2023 8:16 AM - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3)<br>由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完美但可以接受。&lpar;全 A 选手？当我不是和本科阶段一样是班上最活跃的人我就知道自己和 A + 无缘了&rpar;
+https://www.youtube.com/watch?v=QZ4yuGaFQMc</p><a href=`https://xlog.app/api/redirection?characterId=49213&noteId=3`>Sat Mar 04 2023 8:16 AM - S2 学期总结</a><br><p style=`height:300px;overflow:hidden`>由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完美但可以接受。&lpar;全 A 选手？当我不是和本科阶段一样是班上最活跃的人我就知道自己和 A + 无缘了&rpar;
 这学期感觉自己的 Software Engineering 理解又深刻了一些，虽然精力管理还是一样烂（悲）
 代码倒是真没怎么写，大概提升了一下理论 &amp;#x26; 研究。
 
@@ -340,7 +340,7 @@ https://www.youtube.com/watch?v=5q87K1WaoFI&amp;#x26;ab_channel=WIRED
 （Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED）
 结语
 OK。目前对于我个人的任务就是找有趣的课题 + 继续我的 Coding 之路了。语言层面还是继续精进英文（口语 + 写作）和日语考级。
-下学期有可能的话希望减肥 + Fiteness 一下！？。[Fri Feb 24 2023 4:19 AM - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2)<br>最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl track 还有其他一系列奇奇怪怪的玩意。
+下学期有可能的话希望减肥 + Fiteness 一下！？。</p><a href=`https://xlog.app/api/redirection?characterId=49213&noteId=2`>Fri Feb 24 2023 4:19 AM - Obisidian 生活记录系统实操</a><br><p style=`height:300px;overflow:hidden`>最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl track 还有其他一系列奇奇怪怪的玩意。
 以下是一个 Obsidian 小白的视角：
 demo 和前期准备
 插件
@@ -375,7 +375,7 @@ Exercise &lpar;Sports, Jogging&rpar;
 Reading &lpar;Technical books, Novels&rpar;
 University &lpar;Courses, Group Work&rpar;
 Waste
-[Thu Feb 23 2023 12:22 PM - 来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1)<br>一开始还是蛮纠结自己究竟用什么语言，最终还是：中文最方便最熟练。
+</p><a href=`https://xlog.app/api/redirection?characterId=49213&noteId=1`>Thu Feb 23 2023 12:22 PM - 来个新家</a><br><p style=`height:300px;overflow:hidden`>一开始还是蛮纠结自己究竟用什么语言，最终还是：中文最方便最熟练。
 观察了一些其他人的首页，这里是可以当作 “中文” 的琐碎事情的汇总（当然，最少量的技术博客），英文可以在另外一个站点用算了！好了就这样了。
 大概会有以下内容：
 
@@ -385,7 +385,7 @@ Waste
 手办或者自己买的一些小玩意的 showcase
 旅游
 
-总之既然有了博客还是希望自己能不要那么懒惰了（233），有时候是讲不好写什么。<!-- BLOG-POST-LIST:END -->
+总之既然有了博客还是希望自己能不要那么懒惰了（233），有时候是讲不好写什么。</p><!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
 
