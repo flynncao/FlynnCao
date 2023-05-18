@@ -20,16 +20,16 @@
 
 ### ✏️ Blog posts
 <!-- BLOG-POST-LIST:START -->
- * [2023-05-04 - 浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10) 
+ * [2023-05-04 - 浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10) <br> 
  最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发...
- * [2023-03-13 - Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5) 
+ * [2023-03-13 - Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5) <br> 
  一点小小的英语词汇提升路径：
 前一段大概用网站测了下词汇量 &lpar;vocabulary.com8700,...
- * [2023-03-04 - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3) 
+ * [2023-03-04 - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3) <br> 
  由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完...
- * [2023-02-24 - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2) 
+ * [2023-02-24 - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2) <br> 
  最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...
- * [2023-02-23 - 来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1) 
+ * [2023-02-23 - 来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1) <br> 
  一开始还是蛮纠结自己究竟用什么语言，最终还是：中文最方便最熟练。
 观察了一些其他人的首页，这里是可以...<!-- BLOG-POST-LIST:END -->
 
