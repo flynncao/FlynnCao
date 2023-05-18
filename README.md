@@ -20,6 +20,11 @@
 
 ### ✏️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10)
+- [Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5)
+- [S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3)
+- [Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2)
+- [来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
