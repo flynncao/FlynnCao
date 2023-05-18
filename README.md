@@ -21,21 +21,17 @@
 ### ✏️ Blog posts
 <!-- BLOG-POST-LIST:START -->
  * [2023-05-04 - 浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10) 
- 最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发现年久失修。
-
-项目地址： https://github.com/Yukaii/mojidict-h... </details>
+ 最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发...
  * [2023-03-13 - Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5) 
  一点小小的英语词汇提升路径：
-前一段大概用网站测了下词汇量 &lpar;vocabulary.com8700, 扇贝 13000&rpar;，和成年 native 还相去甚远。课堂上的东西倒是能应付，但是对付我的论文可能... </details>
+前一段大概用网站测了下词汇量 &lpar;vocabulary.com8700,...
  * [2023-03-04 - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3) 
- 由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完美但可以接受。&lpar;全 A 选手？当我不是和本科阶段一样是班上最活跃的人我就知道自己和 A + 无缘了&rpar;... </details>
+ 由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完...
  * [2023-02-24 - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2) 
- 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl track 还有其他一系列奇奇怪怪的玩意。
-以下是一个 Obsidian 小白的视角：
-demo 和前期准... </details>
+ 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...
  * [2023-02-23 - 来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1) 
  一开始还是蛮纠结自己究竟用什么语言，最终还是：中文最方便最熟练。
-观察了一些其他人的首页，这里是可以当作 “中文” 的琐碎事情的汇总（当然，最少量的技术博客），英文可以在另外一个站点用算了！好了就这样... </details><!-- BLOG-POST-LIST:END -->
+观察了一些其他人的首页，这里是可以...<!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
 
