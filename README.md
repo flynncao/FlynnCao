@@ -18,7 +18,9 @@
   - ⚡ Fun fact: ...
   -->
 
-
+### ✏️ Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
 
