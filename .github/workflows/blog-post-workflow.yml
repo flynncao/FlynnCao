@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.flynncao.me/feed?format=xml"
-          template: "$newline * [$date - $title]($url) $newline $description"
+          template: "$newline * [$date - $title]($url) <br> $newline $description"
           description_max_length: "50"
           date_format: isoDate
