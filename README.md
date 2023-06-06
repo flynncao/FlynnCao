@@ -20,6 +20,8 @@
 
 ### ✏️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ * [2023-06-02 - 高分完结美剧点评（2-5月）](https://xlog.app/api/redirection?characterId=49213&noteId=50) <br> 
+ 注意，这篇文章全是剧透，慎入。因为全都是动辄 5、6 季的剧集所以会比较长。本次涉及到的美剧有《纸牌...
  * [2023-05-04 - 浏览器插件开发简易指南0](https://xlog.app/api/redirection?characterId=49213&noteId=10) <br> 
  最近想参与一个开源项目，用于 moji 词典的点击查询日语单词，比官方的用的顺手一些。用着还不错但发...
  * [2023-03-13 - Word Power Made Easy &lpar;持续更新中）](https://xlog.app/api/redirection?characterId=49213&noteId=5) <br> 
@@ -28,10 +30,7 @@
  * [2023-03-04 - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3) <br> 
  由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完...
  * [2023-02-24 - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2) <br> 
- 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...
- * [2023-02-23 - 来个新家](https://xlog.app/api/redirection?characterId=49213&noteId=1) <br> 
- 一开始还是蛮纠结自己究竟用什么语言，最终还是：中文最方便最熟练。
-观察了一些其他人的首页，这里是可以...<!-- BLOG-POST-LIST:END -->
+ 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...<!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
 
