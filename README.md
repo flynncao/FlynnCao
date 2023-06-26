@@ -80,9 +80,7 @@ Hi! I'm Flynn Cao 👋, a Front-end Developer / PC Gamer.
 <a href="https://twitter.com/real_flynncao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://discord.gg/v2bzdj7j"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/flynncao" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31yq55jcmnkkkuhe4irsa7kphjoy" target="blank">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-"></img></a>
+<a href="https://open.spotify.com/user/31yq55jcmnkkkuhe4irsa7kphjoy" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img></a>
 </p>
 <p align=center><strong>This project is inspired by <a href="https://github.com/innei" target="_blank">Innei</a> </strong> and  <a href="https://github.com/birdgg" target="_blank">Birdgg</a> </strong>, Thanks!</>
 
