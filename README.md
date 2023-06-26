@@ -1,22 +1,62 @@
-### Hi there 👋 
+# Flynn Cao 
 
-![Flynn Cao's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FlynnCao&&show_icons=true&theme=dark)
-<!-- Start
+Hi! I'm Flynn Cao 👋, a Front-end Developer / PC Gamer.
 
-  <!--
-  **FlynnCao/FlynnCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+**Web Developer**
 
-  Here are some ideas to get you started:
+<p>
+ <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
+**DevOps**
+
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Environment**
+
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="emacs" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white
+" />
+ <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+
+</p>
+
+**Design & Productivity**
+<p>
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white
+"/>
+<!-- <img alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/> -->
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<!-- <img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/> -->
+
+</p>
+
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#129](https://github.com/antfu/vitesse-webext/issues/129) in [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext)
+2. ❗ Opened issue [#129](https://github.com/antfu/vitesse-webext/issues/129) in [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext)
+3. 💪 Opened PR [#30](https://github.com/Yukaii/mojidict-helper/pull/30) in [Yukaii/mojidict-helper](https://github.com/Yukaii/mojidict-helper)
+4. ❗️ Opened issue [#1](https://github.com/FlynnCao/chrome-extension-manifest-v3/issues/1) in [FlynnCao/chrome-extension-manifest-v3](https://github.com/FlynnCao/chrome-extension-manifest-v3)
+<!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -30,39 +70,40 @@
  * [2023-03-04 - S2 学期总结](https://xlog.app/api/redirection?characterId=49213&noteId=3) <br> 
  由于当前还不是年终，此文章写于出成绩的第二天，本学期目标本来是全 pass，完成目标。目前绩点不算完...
  * [2023-02-24 - Obisidian 生活记录系统实操](https://xlog.app/api/redirection?characterId=49213&noteId=2) <br> 
- 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...<!-- BLOG-POST-LIST:END -->
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/antfu/vitesse-webext/issues/129) in [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext)
-2. ❗ Opened issue [#129](https://github.com/antfu/vitesse-webext/issues/129) in [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext)
-3. 💪 Opened PR [#30](https://github.com/Yukaii/mojidict-helper/pull/30) in [Yukaii/mojidict-helper](https://github.com/Yukaii/mojidict-helper)
-4. ❗️ Opened issue [#1](https://github.com/FlynnCao/chrome-extension-manifest-v3/issues/1) in [FlynnCao/chrome-extension-manifest-v3](https://github.com/FlynnCao/chrome-extension-manifest-v3)
-<!--END_SECTION:activity-->
-
+ 最近重新翻 diygod 的博客，然后发现了半年前的这个系统。正好最近自己也在用 toggl tra...
  
- 
+ **Where can you find me?**
+
+
  <p style="display:flex">
  <a href="https://t.me/flynncao/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+
+ <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
+
   
-<a href="https://discord.gg/v2bzdj7j">
+<a href="https://twitter.com/real_flynncao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+ <a href="https://discord.gg/v2bzdj7j">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
  </a>
-  
-<a href="https://dev.to/flynncao">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
- 
- <a href="https://www.goodreads.com/user/show/165341751-cornfieldchase">
-   <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/>
-  </a>
-  
- 
-  
-</p>
- 
+
+
+ <a href="https://steamcommunity.com/id/flynncao" target="blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+ </a>
+
+
+<a href="https://open.spotify.com/user/31yq55jcmnkkkuhe4irsa7kphjoy" target="blank">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+"></img>
+</a>
+
+<p align=center><strong>This project is inspired by <a href="https://github.com/innei" target="_blank">Innei</a> </strong> and  <a href="https://github.com/birdgg" target="_blank">Birdgg</a> </strong>, Thanks!</>
+
+
+
+
 
 
 
