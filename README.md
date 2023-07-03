@@ -48,10 +48,10 @@ Hi! I'm Flynn Cao 👋, a Front-end Developer / PC Gamer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/FlynnCao/astral_express/pull/1) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
-2. 💪 Opened PR [#1](https://github.com/FlynnCao/astral_express/pull/1) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
-3. ❗ Opened issue [#1](https://github.com/alpharmi/astral_express/issues/1) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
-4. ❗️ Opened issue [#1](https://github.com/FlynnCao/chrome-extension-manifest-v3/issues/1) in [FlynnCao/chrome-extension-manifest-v3](https://github.com/FlynnCao/chrome-extension-manifest-v3)
+1. 🎉 Merged PR [#2](https://github.com/FlynnCao/astral_express/pull/2) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+2. 💪 Opened PR [#2](https://github.com/FlynnCao/astral_express/pull/2) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+3. 🎉 Merged PR [#1](https://github.com/FlynnCao/astral_express/pull/1) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+4. 💪 Opened PR [#1](https://github.com/FlynnCao/astral_express/pull/1) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
