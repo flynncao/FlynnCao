@@ -48,10 +48,10 @@ Hi! I'm Flynn Cao 👋, a Front-end Developer / PC Gamer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/FlynnCao/astral_express/issues/3) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
-2. ❗ Opened issue [#3](https://github.com/FlynnCao/astral_express/issues/3) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
-3. 🔒 Closed issue [#1](https://github.com/alpharmi/astral_express/issues/1) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
-4. 🗣 Commented on [#1](https://github.com/alpharmi/astral_express/issues/1) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
+1. 🎉 Merged PR [#4](https://github.com/FlynnCao/astral_express/pull/4) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+2. 💪 Opened PR [#4](https://github.com/FlynnCao/astral_express/pull/4) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+3. 🗣 Commented on [#3](https://github.com/FlynnCao/astral_express/issues/3) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+4. ❗ Opened issue [#3](https://github.com/FlynnCao/astral_express/issues/3) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
