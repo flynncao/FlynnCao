@@ -69,9 +69,7 @@ New blog is under development, you can check my previous posts here (in Chinese)
  <p style="display:flex">
 
 
-<a href="https://t.me/flynncao/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<!-- <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a> -->
+<a href="https://t.me/flynncao/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://twitter.com/real_flynncao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://discord.gg/v2bzdj7j"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/flynncao" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
@@ -79,6 +77,8 @@ New blog is under development, you can check my previous posts here (in Chinese)
 </p>
 <p align=center><strong>This project is inspired by <a href="https://github.com/innei" target="_blank">Innei</a> </strong> and  <a href="https://github.com/birdgg" target="_blank">Birdgg</a> </strong>, Thanks!</>
 
+
+<!-- <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a> -->
 
 
 
