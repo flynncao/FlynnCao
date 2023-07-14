@@ -58,8 +58,6 @@ Hi! I'm Flynn Cao 👋, a Front-end Developer / PC Gamer.
 
 新博客施工中，但你可以在这里查看我的历史文章：
 
-New blog is under development, you can check my previous posts here (in Chinese):
-
 [xlog - 彼方(maji-may)](https://www.flynncao.me/)
 
  
