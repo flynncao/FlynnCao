@@ -50,9 +50,9 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/alpharmi/astral_express/issues/2) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
+1. 🗣 Commented on [#2](https://github.com/alpharmi/astral_express/pull/2#issuecomment-1627189566) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
 2. 💪 Opened PR [#2](https://github.com/alpharmi/astral_express/pull/2) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
-3. 🗣 Commented on [#3](https://github.com/FlynnCao/astral_express/issues/3) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+3. 🗣 Commented on [#3](https://github.com/FlynnCao/astral_express/issues/3#issuecomment-1624026023) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
 4. 🎉 Merged PR [#4](https://github.com/FlynnCao/astral_express/pull/4) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
 <!--END_SECTION:activity-->
 
