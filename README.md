@@ -50,10 +50,10 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/mantou132/Spotify-Lyrics/issues/107#issuecomment-1641964983) in [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-2. ❗ Opened issue [#2](https://github.com/FlynnCao/valaxy/issues/2) in [FlynnCao/valaxy](https://github.com/FlynnCao/valaxy)
-3. ❗ Opened issue [#1](https://github.com/FlynnCao/valaxy/issues/1) in [FlynnCao/valaxy](https://github.com/FlynnCao/valaxy)
-4. 🎉 Merged PR [#4](https://github.com/FlynnCao/astral_express/pull/4) in [FlynnCao/astral_express](https://github.com/FlynnCao/astral_express)
+1. ❗ Opened issue [#2](https://github.com/FlynnCao/eslint-config/issues/2) in [FlynnCao/eslint-config](https://github.com/FlynnCao/eslint-config)
+2. 🗣 Commented on [#107](https://github.com/mantou132/Spotify-Lyrics/issues/107#issuecomment-1641964983) in [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+3. ❗ Opened issue [#2](https://github.com/FlynnCao/valaxy/issues/2) in [FlynnCao/valaxy](https://github.com/FlynnCao/valaxy)
+4. ❗ Opened issue [#1](https://github.com/FlynnCao/valaxy/issues/1) in [FlynnCao/valaxy](https://github.com/FlynnCao/valaxy)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
