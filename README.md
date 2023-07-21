@@ -42,6 +42,7 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 <p>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white"/>
 
 </p>
 
