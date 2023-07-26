@@ -51,10 +51,10 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/flynncao/valaxy/issues/3) in [flynncao/valaxy](https://github.com/flynncao/valaxy)
-2. 🔒 Closed issue [#2](https://github.com/flynncao/eslint-config/issues/2) in [flynncao/eslint-config](https://github.com/flynncao/eslint-config)
-3. 🗣 Commented on [#2](https://github.com/flynncao/eslint-config/issues/2#issuecomment-1646759988) in [flynncao/eslint-config](https://github.com/flynncao/eslint-config)
-4. ❗ Opened issue [#2](https://github.com/FlynnCao/eslint-config/issues/2) in [FlynnCao/eslint-config](https://github.com/FlynnCao/eslint-config)
+1. 🗣 Commented on [#3](https://github.com/flynncao/valaxy/issues/3#issuecomment-1651993760) in [flynncao/valaxy](https://github.com/flynncao/valaxy)
+2. 🎉 Merged PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
+3. 🗣 Commented on [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2#issuecomment-1651988404) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
+4. 💪 Opened PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
