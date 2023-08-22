@@ -51,10 +51,10 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/flynncao/valaxy/issues/3#issuecomment-1651993760) in [flynncao/valaxy](https://github.com/flynncao/valaxy)
-2. 🎉 Merged PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
-3. 🗣 Commented on [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2#issuecomment-1651988404) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
-4. 💪 Opened PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
+1. 🗣 Commented on [#107](https://github.com/mantou132/Spotify-Lyrics/issues/107#issuecomment-1687982851) in [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+2. 🗣 Commented on [#3](https://github.com/flynncao/valaxy/issues/3#issuecomment-1651993760) in [flynncao/valaxy](https://github.com/flynncao/valaxy)
+3. 🎉 Merged PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
+4. 🗣 Commented on [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2#issuecomment-1651988404) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
