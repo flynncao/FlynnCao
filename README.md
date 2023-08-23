@@ -51,10 +51,10 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/mantou132/Spotify-Lyrics/issues/107#issuecomment-1687982851) in [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-2. 🗣 Commented on [#3](https://github.com/flynncao/valaxy/issues/3#issuecomment-1651993760) in [flynncao/valaxy](https://github.com/flynncao/valaxy)
-3. 🎉 Merged PR [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
-4. 🗣 Commented on [#2](https://github.com/flynncao/valaxy-theme-ginro/pull/2#issuecomment-1651988404) in [flynncao/valaxy-theme-ginro](https://github.com/flynncao/valaxy-theme-ginro)
+1. 🗣 Commented on [#3](https://github.com/alpharmi/astral_express/issues/3#issuecomment-1688866523) in [alpharmi/astral_express](https://github.com/alpharmi/astral_express)
+2. 🎉 Merged PR [#5](https://github.com/flynncao/astral_express/pull/5) in [flynncao/astral_express](https://github.com/flynncao/astral_express)
+3. 🔒 Closed issue [#3](https://github.com/flynncao/astral_express/issues/3) in [flynncao/astral_express](https://github.com/flynncao/astral_express)
+4. 💪 Opened PR [#5](https://github.com/flynncao/astral_express/pull/5) in [flynncao/astral_express](https://github.com/flynncao/astral_express)
 <!--END_SECTION:activity-->
 
 ### ✏️ Blog posts
