@@ -7,6 +7,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
+  if: ${{false}} # Disable this workflow by default
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest

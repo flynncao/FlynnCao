@@ -1,6 +1,6 @@
 # Flynn Cao [![wakatime](https://wakatime.com/badge/user/c83afdda-c313-4c6d-8685-537ee52e9da8.svg)](https://wakatime.com/@c83afdda-c313-4c6d-8685-537ee52e9da8)
 
-Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
+Hi! I'm Flynn Cao 👋, a front-end/fullstack developer & student.
 
 ## Skills
 **Web Developer**
@@ -59,9 +59,9 @@ Hi! I'm Flynn Cao 👋, a front-end & fullstack developer.
 
 ### ✏️ Blog posts
 
-新博客施工中，但你可以在这里查看我的历史文章：
+[Primary Blog](https://flynncao.xyz/posts/)
 
-[xlog - 彼方(maji-may)](https://www.flynncao.me/)
+[中文博客](https://www.flynncao.me/)
 
  
  **You can reach out to me via**
