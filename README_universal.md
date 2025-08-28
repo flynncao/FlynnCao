@@ -1,6 +1,6 @@
 # Flynn Cao [![wakatime](https://wakatime.com/badge/user/c83afdda-c313-4c6d-8685-537ee52e9da8.svg)](https://wakatime.com/@c83afdda-c313-4c6d-8685-537ee52e9da8)
 
-Hi! I'm Flynn Cao 👋, a front-end/fullstack developer & student.
+Hi! I'm Flynn Cao, a front-end/fullstack developer & student.
 
 ## Skills
 **Web Developer**
@@ -57,11 +57,11 @@ Hi! I'm Flynn Cao 👋, a front-end/fullstack developer & student.
 4. 🔒 Closed issue [#3](https://github.com/flynncao/astral_express/issues/3) in [flynncao/astral_express](https://github.com/flynncao/astral_express)
 <!--END_SECTION:activity-->
 
-### ✏️ Blog posts
+<!-- ### ✏️ Blog posts
 
-[Primary Blog](https://flynncao.xyz/posts/)
+<!-- [Primary Blog](https://flynncao.xyz/posts/)
 
-[中文博客](https://www.flynncao.me/)
+[中文博客](https://www.flynncao.me/) --> 
 
  
  **You can reach out to me via**
