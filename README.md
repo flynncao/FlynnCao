@@ -21,7 +21,7 @@ Salam! Saya Flyn Cao!<br>
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
    <img alt="RollupJS"
-    src="  https://img.shields.io/badge/RollupJS-ef3335?style=flat&Squar&logo=rollup.js&logoColor=white
+    src="https://img.shields.io/badge/RollupJS-ef3335?style=flat&Squar&logo=rollup.js&logoColor=white
     " />
 
 </p>
@@ -47,8 +47,6 @@ Salam! Saya Flyn Cao!<br>
   <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="CloudFlare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&Squar&logo=Cloudflare&logoColor=white 
-    "/>
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7
     "/>
 
