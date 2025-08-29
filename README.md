@@ -21,8 +21,7 @@ Salam! Saya Flyn Cao!<br>
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
    <img alt="RollupJS"
-    src="https://img.shields.io/badge/RollupJS-ef3335?style=flat&Squar&logo=rollup.js&logoColor=white
-    " />
+    src="https://img.shields.io/badge/RollupJS-ef3335?style=flat&Squar&logo=rollup.js&logoColor=white" />
 
 </p>
 <p>
@@ -66,8 +65,7 @@ Salam! Saya Flyn Cao!<br>
 <p>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white"/>
-<img alt="Linear" src="https://img.shields.io/badge/linear-5E6AD2.svg?logo=linear&logoColor=white
-"/>
+<img alt="Linear" src="https://img.shields.io/badge/linear-5E6AD2.svg?style=flat-squarelogo=linear&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img alt="[Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
 </p>
@@ -75,14 +73,12 @@ Salam! Saya Flyn Cao!<br>
 
 **Others**
 <p>
-<img alt="Google" src=https://img.shields.io/badge/google-4285F4?style=flat&Squar&logo=google&logoColor=white
+<img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=flat&Squar&logo=google&logoColor=white
 "/>
-<img alt="Apple" src=https://img.shields.io/badge/Apple-%23000000.svg?style=flat&Squar&logo=apple&logoColor=white
+<img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=flat&Squar&logo=apple&logoColor=white
 "/>
-<img alt="Bilibili" src=https://img.shields.io/badge/bilibili-00A1D6.svg?style=flat&Squar&logo=bilibili&logoColor=white"/>
-<img alt="Telegram" src=https://img.shields.io/badge/Telegram-2CA5E0?style=flat&Squar&logo=telegram&logoColor=white
-"/>
-
+<img alt="Bilibili" src="https://img.shields.io/badge/bilibili-00A1D6.svg?style=flat&Squar&logo=bilibili&logoColor=white"/>
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&Squar&logo=telegram&logoColor=white"/>
 </p>
 
 
