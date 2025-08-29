@@ -71,12 +71,10 @@ Salam! Saya Flyn Cao!<br>
 </p>
 
 
-**Others**
+**Online Services**
 <p>
-<img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=flat&Squar&logo=google&logoColor=white
-"/>
-<img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=flat&Squar&logo=apple&logoColor=white
-"/>
+<img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=flat&Squar&logo=google&logoColor=white"/>
+<img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=flat&Squar&logo=apple&logoColor=white"/>
 <img alt="Bilibili" src="https://img.shields.io/badge/bilibili-00A1D6.svg?style=flat&Squar&logo=bilibili&logoColor=white"/>
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&Squar&logo=telegram&logoColor=white"/>
 </p>
