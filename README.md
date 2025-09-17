@@ -10,7 +10,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 </div>
 
 <hr>
-
+<p>
  <img alt="tools_i_use" src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
  <img alt="semicolon" src="https://img.shields.io/badge/-%3A-orange" />
  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
@@ -53,8 +53,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 <img alt="Linear" src="https://img.shields.io/badge/linear-5E6AD2.svg?style=flat-squarelogo=linear&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img alt="[Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
-
-## Recent Updates
+</p>
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
