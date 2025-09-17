@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
+  if: ${{false}} # Disable this workflow by default
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
