@@ -71,7 +71,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 **📝 Recent Posts**
 
 <!-- blog starts -->
-
+• No recent posts available
 <!-- blog ends -->
 </td>
 </tr>
