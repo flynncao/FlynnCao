@@ -74,7 +74,7 @@ def fetch_weekly():
 
 def fetch_blog_entries():
     try:
-        entries = feedparser.parse("https://flynncao.uk/rss.xml")["entries"]
+        entries = feedparser.parse("rss.xml")["entries"]
         return [
             {
                 "title": entry["title"],
@@ -172,7 +172,7 @@ if __name__ == "__main__":
         ]
     ) if entries else ""
     
-    weekly_md = fetch_weekly()
+    weekly_md = ''
     
     # Combine both contents
     if blog_md and weekly_md:
