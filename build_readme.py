@@ -55,7 +55,7 @@ def fetch_releases(oauth_token):
 
 def fetch_weekly():
     try:
-        content = feedparser.parse("https://flynncao.uk/en/atom.xml")["entries"]
+        content = feedparser.parse("https://flynncao.uk/en/rss.xml")["entries"]
         entries = [
             "• [{title}]({url}) - {published}".format(
                 title=entry["title"],
@@ -74,7 +74,7 @@ def fetch_weekly():
 
 def fetch_blog_entries():
     try:
-        entries = feedparser.parse("https://flynncao.uk/atom.xml")["entries"]
+        entries = feedparser.parse("https://flynncao.uk/rss.xml")["entries"]
         return [
             {
                 "title": entry["title"],
