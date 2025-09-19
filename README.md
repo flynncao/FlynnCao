@@ -62,7 +62,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 **⭐ Latest Releases**
 
 <!-- recent_releases starts -->
-• [BilibiliCrawler 正式版1.0](https://github.com/flynncao/BilibiliCrawler/releases/tag/1.0.0) - 2019-02-10<br>• [O2Timer2 氧计时 Release 1.0](https://github.com/flynncao/O2Timer2/releases/tag/1.0.0) - 2018-10-25
+• [bangumi-episode-enhance-userscript Release 0.2.9.9.1](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.9.1) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.9](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.9) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.8](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.8) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.7](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.7) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.10](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.10) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release main](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/main) - 2025-09-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
