@@ -70,7 +70,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 **📝 Recent Posts**
 
 <!-- blog starts -->
-• No recent posts available
+• [从词元化到Transformer中的注意力机制](https://flynncao.uk/posts/from-a-tokenized-word-to-attention-mechanism-in-transformers/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [ESM-only在node22和TypeScript5环境下的实现](https://flynncao.uk/posts/esm-only-application/) - Sat, 23 Aug 2025 23:43:20 GM<br>• [长期更新｜境外服务食用、资源下载管理指南](https://flynncao.uk/posts/surfing-in-china/) - Wed, 12 Mar 2025 05:50:36 GM
 <!-- blog ends -->
 </td>
 </tr>
