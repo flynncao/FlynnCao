@@ -62,7 +62,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 **⭐ Latest Releases**
 
 <!-- recent_releases starts -->
-
+• [BilibiliCrawler 正式版1.0](https://github.com/flynncao/BilibiliCrawler/releases/tag/1.0.0) - 2019-02-10<br>• [O2Timer2 氧计时 Release 1.0](https://github.com/flynncao/O2Timer2/releases/tag/1.0.0) - 2018-10-25
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
