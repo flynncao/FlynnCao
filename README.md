@@ -70,7 +70,7 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 **📝 Recent Posts**
 
 <!-- blog starts -->
-• [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - <br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GM<br>• [真希望我能更早读到这本书。我很欣赏作者的思维方式，其中有几章给了我极大的启发。不过，书里关于投资的部分更多是基于他个人的经历以及他所从事的房地产行业。...](https://t.me/majimayfav/202) - 2025-09-13<br>• [前前后后一个夏天终于看完了](https://t.me/majimayfav/183) - 2025-08-31<br>• [↩️ 作为散文来说，每一章都有个鲜明独立的主题令人过目不忘；讨论严肃话题，它够有趣和大胆；作为90年代中期的书，它很先进又引经据典。最重要的是，它太好读...](https://t.me/majimayfav/166) - 2025-08-15
+• [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - <br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GM
 <!-- blog ends -->
 </td>
 </tr>
