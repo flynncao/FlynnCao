@@ -55,7 +55,7 @@ def fetch_releases(oauth_token):
 
 def fetch_weekly():
     try:
-        content = feedparser.parse("https://hub.slarker.me/telegram/channel/majimayfav/searchQuery=%23reviews")["entries"]
+        content = feedparser.parse("")["entries"]
         entries = [
             "• [{title}]({url}) - {published}".format(
                 title=entry["title"],
@@ -162,7 +162,7 @@ if __name__ == "__main__":
 
 
     # Combine blog and weekly into one content block
-    entries = fetch_blog_entries()[:3]
+    entries = fetch_blog_entries()[:6]
     blog_md = "<br>".join(
         [
             "• [{title}]({url}) - {published}".format(
@@ -172,7 +172,8 @@ if __name__ == "__main__":
         ]
     ) if entries else ""
     
-    weekly_md = fetch_weekly()
+   # weekly_md = fetch_weekly()
+    weekly_md = ""
     
     # Combine both contents
     if blog_md and weekly_md:
