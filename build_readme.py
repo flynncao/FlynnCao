@@ -55,7 +55,7 @@ def fetch_releases(oauth_token):
 
 def fetch_weekly():
     try:
-        content = feedparser.parse("https://flynncao.uk/en/rss.xml")["entries"]
+        content = feedparser.parse("https://rsshub.app/telegram/channel/majimayfav/searchQuery=%23reviews")["entries"]
         entries = [
             "• [{title}]({url}) - {published}".format(
                 title=entry["title"],
@@ -74,7 +74,7 @@ def fetch_weekly():
 
 def fetch_blog_entries():
     try:
-        entries = feedparser.parse("https://flynncao.uk/rss.xml")["entries"]
+        entries = feedparser.parse("https://resilient-dusk-521a76.netlify.app/rss.xml")["entries"]
         return [
             {
                 "title": entry["title"],
