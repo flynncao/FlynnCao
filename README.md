@@ -55,23 +55,13 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 <img alt="[Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 
-<table width="1200px" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600px" valign="top">
-
-**⭐ Recent Activities**
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-<td width="600px" valign="top">
-
-**📝 Recent Posts**
+## 📝 Recent Posts**
 
 <!-- blog starts -->
 • [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - <br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GM
 <!-- blog ends -->
-</td>
-</tr>
-</table>
 
+## ⭐ Recent Activities
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
