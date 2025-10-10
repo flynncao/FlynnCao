@@ -1,4 +1,4 @@
-name: Build README
+name: CUSTOM README
 
 on:
   push:
