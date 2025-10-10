@@ -59,12 +59,10 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 <tr>
 <td width="600px" valign="top">
 
-**⭐ Latest Releases**
+**⭐ Recent Activities**
+<!--START_SECTION:activity-->
 
-<!-- recent_releases starts -->
-• [bangumi-episode-enhance-userscript Release 0.2.11](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.11) - 2025-09-27<br>• [bangumi-episode-enhance-userscript Release 0.2.10.a](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.10.a) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.10.1](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.10.1) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.10](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.10) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.9.1](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.9.1) - 2025-09-19<br>• [bangumi-episode-enhance-userscript Release 0.2.9.9](https://github.com/flynncao/bangumi-episode-enhance-userscript/releases/tag/0.2.9.9) - 2025-09-19
-<!-- recent_releases ends -->
-</td>
+<!--END_SECTION:activity-->
 <td width="600px" valign="top">
 
 **📝 Recent Posts**
