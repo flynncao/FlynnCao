@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="./public/BTR.jpg" href="https://github.com/sp-xd" alt="Workspace"  width="35%"/><br>  
-Hi! I'm Flynn Cao! 👋 <br><br>
+Hi! I'm Flynn Cao! 👋 I love reading and innovative code stuff.<br><br>
  <img alt="visitor_count" src="https://komarev.com/ghpvc/?username=flynncao&color=blue&label=Visited" />
  <a href="https://t.me/flynncao/"> <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 </a>
@@ -55,13 +55,20 @@ Hi! I'm Flynn Cao! 👋 <br><br>
 <img alt="[Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 
-## 📝 Recent Posts**
+## 🌟 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flynncao" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flynncao&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+## 📝 Recent Posts
 
 <!-- blog starts -->
 • [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - <br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GM
 <!-- blog ends -->
 
-## ⭐ Recent Activities
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
