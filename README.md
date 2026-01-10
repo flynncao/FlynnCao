@@ -69,6 +69,6 @@ Hi! I'm Flynn Cao! 👋 I love reading and innovative code stuff.<br><br>
 ## 📝 Recent Posts
 
 <!-- blog starts -->
-• [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GM<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - <br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GM
+• [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GMT<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - Tue, 02 Jan 2024 15:59:36 GMT<br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GMT
 <!-- blog ends -->
 
