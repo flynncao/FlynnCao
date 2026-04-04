@@ -1,7 +1,10 @@
 <div align="center" width="50">
 
 <img src="./public/Saqafi Sahab.jpg" href="https://github.com/sp-xd" alt="Workspace"  width="35%"/><br>  
-Hi! I'm Flynn Cao! 👋 I am a frontend & full-stack developer currently researching LLM and ASR refinements. <br> I enjoy building software that lives at the edge of AI and modern web technologies. <br> Reading philosophy, literature, and comics is my major hobby.<br>
+👋 Hi! I'm Flynn Cao! <br>
+🤖 Core Focus: Building automation bots, browser extensions, and cross-platform web apps.<br>
+🎙️ Research: Frontier of LLMs, Speech Recognition and AI-powered workflows.<br>
+📚 Vibe: Deep dives into literature, comics, and occasionally <del>anime</del>.
 </a>
 
 </div>
