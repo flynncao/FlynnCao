@@ -31,7 +31,6 @@
 <img alt="Nestjs" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white&style=flat" />
 <img alt="RollupJS"
   src="https://img.shields.io/badge/RollupJS-ef3335?style=flat&Squar&logo=rollup.js&logoColor=white" />
-<br>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&Square&logo=python&logoColor=ffdd54" />
 <!-- <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&Square&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&Squar&logo=pandas&logoColor=white" /> -->
