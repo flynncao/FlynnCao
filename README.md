@@ -1,18 +1,19 @@
-<div align="center" width="50">
 
-<img src="./public/Saqafi Sahab.jpg" href="https://github.com/sp-xd" alt="Workspace"  width="35%"/><br>  
-👋 Hi! I'm Flynn Cao! <br>
-🤖 Core Focus: Building automation bots, browser extensions, and cross-platform web apps.<br>
-🎙️ Research: Frontier of LLMs, Speech Recognition and AI-powered workflows.<br>
-📚 Vibe: Deep dives into literature, comics, and occasionally <del>anime</del>.
-</a>
-
-</div>
-
+<br><br>
+<strong>👋 Hi there! I'm Flynn Cao!</strong> 
+<br><br>
+✒️ Building tools, web apps, and AI-powered workflows. Exploring LLM applications, speech recognition, and AI agents.
+<br><br>
+📚 Field of Study: ASR/LLMs
+<br><br>
+⚽ Vibe: Literatures, manga, anime, hiking — not really a gamer.
+</a><br>
 <hr>
 <p>
-<!-- <img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat" />
-<img alt="CLaude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat" />  -->
+
+## 🎇 Tech Stack
+
+<img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat" />
 <img alt="TypeScript"
   src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="TypeScript"
