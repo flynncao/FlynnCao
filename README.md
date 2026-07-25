@@ -68,13 +68,13 @@
 ## 🚀 Recent Projects
 
 <!-- recent_projects starts -->
-• [one-thing](https://github.com/flynncao/one-thing)<br>• [feed-searcher](https://github.com/flynncao/feed-searcher)<br>• [WorldsMostPowerfulModel](https://github.com/flynncao/WorldsMostPowerfulModel)<br>• [skills](https://github.com/flynncao/skills) — 🛠️自用 Skills 仓库; personal AI Skills repository, covering everyday workflows.<br>• [anime-rating](https://github.com/flynncao/anime-rating) — 在Bangumi番剧详情页显示MAL抓取的年龄分级信息
+• [one-thing](https://github.com/flynncao/one-thing) — 📋 Turn any small action into a satisfying ritual. 100% browser-local. Powered b…<br>• [WorldsMostPowerfulModel](https://github.com/flynncao/WorldsMostPowerfulModel) — 🔥The LLM leaderboard, but make it a meme.  大模型排行榜，但是梗图版。<br>• [skills](https://github.com/flynncao/skills) — 🛠️自用 Skills 仓库; personal AI Skills repository, covering everyday workflows.<br>• [anime-rating](https://github.com/flynncao/anime-rating) — 🔞[WIP] 在Bangumi番剧详情页显示MAL抓取的年龄分级信息<br>• [cloudflare-workers-tg-bot](https://github.com/flynncao/cloudflare-workers-tg-bot)
 <!-- recent_projects ends -->
 
 ## 📝 Recent Posts
 
 <!-- blog starts -->
-• [Understanding Path Wildcards and Resolution Across Git, Node.js, and Python](https://flynncao.uk/en/posts/path-wildcards-and-resolutionen/) - Sun, 08 Feb 2026 15:59:36 GMT<br>• [From a tokenized word to attention mechanism in Transformers](https://flynncao.uk/en/posts/from-a-tokenized-word-to-attention-mechanism-in-transformersen/) - Wed, 03 Sep 2025 15:59:36 GMT<br>• [Sass in Modern Frontend](https://flynncao.uk/en/posts/sass-newen/) - Tue, 02 Jan 2024 15:59:36 GMT<br>• [Why is it difficult to align CSS elements?](https://flynncao.uk/en/posts/css-layouten/) - Mon, 06 Nov 2023 00:00:00 GMT
+• No recent posts available
 <!-- blog ends -->
 
 <p>
