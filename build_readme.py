@@ -21,6 +21,11 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+def _truncate(text, limit=80):
+    if len(text) <= limit:
+        return text
+    return text[: limit - 1].rstrip() + "…"
+
 
 def fetch_releases(oauth_token):
     try:
@@ -51,6 +56,33 @@ def fetch_releases(oauth_token):
         return releases
     except Exception as e:
         print(f"Error fetching releases: {e}")
+        return []
+
+def fetch_recent_repos(oauth_token):
+    try:
+        g = Github(oauth_token)
+        user = g.get_user()
+        repos = []
+        for repo in user.get_repos(type='owner', sort='created', direction='desc'):
+            if repo.fork or repo.archived or repo.private:
+                continue
+            try:
+                created = repo.created_at
+                if created is None:
+                    continue
+                repos.append({
+                    "name": repo.name,
+                    "url": repo.html_url,
+                    "description": repo.description or "",
+                    "created_at": created,
+                })
+            except Exception as e:
+                print(f"Error reading repo {getattr(repo, 'name', '?')}: {e}")
+                continue
+        repos.sort(key=lambda r: r["created_at"], reverse=True)
+        return repos[:5]
+    except Exception as e:
+        print(f"Error fetching recent repos: {e}")
         return []
 
 def fetch_weekly():
@@ -159,6 +191,21 @@ if __name__ == "__main__":
     
     stats_text = f"{stats['followers']:,} followers, {stats['stars']:,} stars, {stats['forks']:,} forks"
     rewritten = replace_chunk(rewritten, "github_stats", stats_text, inline=True)
+
+    # Recent projects (5 most recent public, non-fork, non-archived repos)
+    recent = fetch_recent_repos(TOKEN)
+    if recent:
+        recent_md = "<br>".join(
+            "• [{name}]({url}){desc}".format(
+                name=r["name"],
+                url=r["url"],
+                desc=(" — " + _truncate(r["description"])) if r["description"] else "",
+            )
+            for r in recent
+        )
+    else:
+        recent_md = "• No recent projects available"
+    rewritten = replace_chunk(rewritten, "recent_projects", recent_md)
 
 
     # Combine blog and weekly into one content block

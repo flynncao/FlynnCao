@@ -65,6 +65,11 @@
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=flynncao&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## 🚀 Recent Projects
+
+<!-- recent_projects starts -->
+<!-- recent_projects ends -->
+
 ## 📝 Recent Posts
 
 <!-- blog starts -->
