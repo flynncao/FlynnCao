@@ -1,18 +1,15 @@
-
-<br><br>
 <strong>👋 Hi there! I'm Flynn Cao!</strong> 
-<br><br>
+<br>
 ✒️ Building tools, web apps, and AI-powered workflows. Exploring LLM applications, speech recognition, and AI agents.
-<br><br>
+<br>
 📚 Field of Study: ASR/LLMs
-<br><br>
+<br>
 ⚽ Vibe: Literatures, manga, anime, hiking — not really a gamer.
-</a><br>
-<hr>
-<p>
+</a>
+<br>
 
 ## 🎇 Tech Stack
-
+<p>
 <img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat" />
 <img alt="TypeScript"
   src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
