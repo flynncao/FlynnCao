@@ -68,6 +68,7 @@
 ## 🚀 Recent Projects
 
 <!-- recent_projects starts -->
+• [one-thing](https://github.com/flynncao/one-thing)<br>• [feed-searcher](https://github.com/flynncao/feed-searcher)<br>• [WorldsMostPowerfulModel](https://github.com/flynncao/WorldsMostPowerfulModel)<br>• [skills](https://github.com/flynncao/skills) — 🛠️自用 Skills 仓库; personal AI Skills repository, covering everyday workflows.<br>• [anime-rating](https://github.com/flynncao/anime-rating) — 在Bangumi番剧详情页显示MAL抓取的年龄分级信息
 <!-- recent_projects ends -->
 
 ## 📝 Recent Posts
