@@ -66,7 +66,7 @@
 ## 🚀 Recent Projects
 
 <!-- recent_projects starts -->
-• [one-thing](https://github.com/flynncao/one-thing) — 📋 Turn any small action into a satisfying ritual. 100% browser-local. Powered b…<br>• [WorldsMostPowerfulModel](https://github.com/flynncao/WorldsMostPowerfulModel) — 🔥The LLM leaderboard, but make it a meme.  大模型排行榜，但是梗图版。<br>• [skills](https://github.com/flynncao/skills) — 🛠️自用 Skills 仓库; personal AI Skills repository, covering everyday workflows.<br>• [anime-rating](https://github.com/flynncao/anime-rating) — 🔞[WIP] 在Bangumi番剧详情页显示MAL抓取的年龄分级信息<br>• [cloudflare-workers-tg-bot](https://github.com/flynncao/cloudflare-workers-tg-bot) — ☁️ Deploy your Telegram bot on Cloudflare Workers. Zero cost, 24/7 avilibility.…
+• [one-thing](https://github.com/flynncao/one-thing) — 📋 Turn any small action into a satisfying ritual. 100% browser-local. Powered b…<br>• [WorldsMostPowerfulModel](https://github.com/flynncao/WorldsMostPowerfulModel) — 🔥The LLM leaderboard, but make it a meme.  大模型排行榜，但是梗图版。<br>• [skills](https://github.com/flynncao/skills) — 🛠️自用 Skills 仓库; personal AI Skills repository, covering everyday workflows.<br>• [anime-rating](https://github.com/flynncao/anime-rating) — 🌈 [WIP] 在Bangumi番剧详情页显示MAL抓取的年龄分级信息<br>• [cloudflare-workers-tg-bot](https://github.com/flynncao/cloudflare-workers-tg-bot) — [WIP] ☁️ Deploy your Telegram bot on Cloudflare Workers. Zero cost, 24/7 availa…
 <!-- recent_projects ends -->
 
 ## 📝 Recent Posts
